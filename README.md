@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Shaikh Habib</h1>
+<h1 align="center">Hi there 👋, I'm **Shaikh Habib**</h1>
 <h3 align="center">A passionate Frontend Developer from Pakistan</h3>
 <img align="center" alt="3D Character" width="100%" src="https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171862_l7yZ0wujj8o2SowiKTUsfLEEx8KunYNd.jpg">
 
@@ -17,10 +17,6 @@
 - 📫 How to reach me **[Email](mailto:shaikkhhabib957@yahoo.com)**
 
 - 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/shaikhhabib001/)
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
