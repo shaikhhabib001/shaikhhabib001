@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaikhhabib001&label=Profile%20views&color=0e75b6&style=flat" alt="shaikhhabib001" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shaikhhabib001" alt="shaikhhabib001" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/shaikhhabib001" target="blank"><img src="https://img.shields.io/twitter/follow/shaikhhabib001?logo=twitter&style=for-the-badge" alt="shaikhhabib001" /></a> </p>
 
 - 🌱 I’m currently learning **Mobile Application Development**
