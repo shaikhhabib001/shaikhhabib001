@@ -6,7 +6,6 @@
   <img src="https://komarev.com/ghpvc/?username=shaikhhabib001&label=Profile%20views&color=0e75b6&style=flat" alt="shaikhhabib001" />
 </p>
 
-
 - 🌱 I’m currently learning **Mobile Application Development**
 
 - 👨‍💻 All of my projects are available at [Here](https://github.com/shaikhhabib001?tab=repositories)
@@ -17,11 +16,6 @@
 
 - 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/shaikhhabib001/)
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/shaikhhabib001/" target="blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png&style=for-the-badge" alt="shaikhhabib001" />
-  </a>
-</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shaikhhabib001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shaikhhabib001" height="30" width="40" /></a>
