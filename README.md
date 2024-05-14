@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **Mobile Application Development**
 
-- 👨‍💻 All of my projects are available at [Here](https://github.com/shaikhhabib001)
+- 👨‍💻 All of my projects are available at [Here](https://github.com/shaikhhabib001?tab=repositories)
 
 - 💬 Ask me about **Web development**
 
-- 📫 How to reach me **shaikkhhabib957@yahoo.com**
+- 📫 How to reach me **[Email](mailto:shaikkhhabib957@yahoo.com)**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/shaikhhabib001/](https://www.linkedin.com/in/shaikhhabib001/)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/shaikhhabib001/)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
