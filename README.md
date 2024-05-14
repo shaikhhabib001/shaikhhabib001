@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Shaikh Habib</h1>
 <h3 align="center">A passionate Frontend Developer from Pakistan</h3>
-<img align="center" alt="3D Character" width="400" src="https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171862_l7yZ0wujj8o2SowiKTUsfLEEx8KunYNd.jpg">
+<img align="center" alt="3D Character" width="100%" src="https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171862_l7yZ0wujj8o2SowiKTUsfLEEx8KunYNd.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaikhhabib001&label=Profile%20views&color=0e75b6&style=flat" alt="shaikhhabib001" /> </p>
 
