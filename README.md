@@ -19,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shaikhhabib001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shaikhhabib001" height="30" width="40" /></a>
-<a href="https://dev.to/shaikhhabib001" target="blank"><img align="center" src="https://res.cloudinary.com/practicaldev/image/fetch/s--AOunT8g5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://thepracticaldev.s3.amazonaws.com/i/78hs31fax49uwy6kbxyw.png" alt="shaikhhabib001" height="30" width="40" /></a>
+<a href="https://dev.to/shaikhhabib001" target="blank"><img align="center" src="https://thepracticaldev.s3.amazonaws.com/i/78hs31fax49uwy6kbxyw.png" alt="shaikhhabib001" height="30" width="40" /></a>
 <a href="https://codepen.io/shaikhhabib001" target="blank"><img align="center" src="https://cdn.dribbble.com/users/299/screenshots/5648722/codepen-logo-gifc2.gif" alt="shaikhhabib001" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/20265656" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20265656" height="30" width="40" /></a>
 <a href="https://www.behance.net/shaikhhabib001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="shaikhhabib001" height="30" width="40" /></a>
